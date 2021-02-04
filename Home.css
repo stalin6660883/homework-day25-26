@@ -1,0 +1,117 @@
+.header{
+    background:#3498db;
+    ;
+}
+.logo img{
+    max-width: 55%;
+}
+.manu {}
+.manu ul{
+    margin-bottom: 0;
+    padding-left: 0;
+    text-align: right;
+}
+.manu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.manu ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	line-height: 108px;
+	border-right: 1px solid #ddd;
+	display: block;
+    padding: 0 20px;
+    transition: .4s;
+}
+.manu ul li a:hover{
+    background: #2980b9;
+}
+/* benner css */
+.benner{
+    background-image: url(https://smartslider3.com/wp-content/uploads/2019/01/photo_slideshow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 300px 0;
+    background-attachment: fixed;
+}
+.benner h1{
+    background: rgba(0, 0, 0, .5);
+    color: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: auto;
+}
+.benner h3 {
+	background: rgba(41, 128, 185, .5);
+	color: #fff;
+	max-width: 360px;
+	margin: auto;
+	margin-top: 10px;
+	padding: 5px 0;
+	border-radius: 5px;
+}
+/* aboute */
+.aboute{
+    background: #bdc3c7;
+}
+/* service */
+.Service{
+    background: #ecf0f1;
+}
+.Service .card span {
+	font-size: 25px;
+	/* background: #2ecc71; */
+	padding: 5px 0;
+	/* border-radius: 5px 0; */
+	/* display: block; */
+	color: #2980b9;
+}
+
+.image img{
+    max-width: 100%;
+}
+.notice ul{
+    list-style: none;
+    padding-left: 0;
+}
+.notice ul li{
+    background: #fafafa;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.contenr{
+    background: #ecf0f1;
+}
+.footr{
+    background: #2980b9;
+}
+.footer-text{
+    max-width: 100%;
+}
+.footer-text p{
+    padding: 20px 0;
+    margin-bottom: 0;
+    color: #ffff;
+}
+.social-icon ul {
+	list-style: none;
+	margin-bottom: 0;
+	padding-left: 0;
+}
+.social-icon ul li{
+    display: inline-block;
+}
+.social-icon ul li a {
+	display: block;
+	padding: 0 20px;
+	font-size: 50px;
+    line-height: 66px;
+    color: #fff;
+	/* border-right: 1px solid #ddd; */
+}
